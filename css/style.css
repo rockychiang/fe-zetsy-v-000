@@ -20,7 +20,8 @@ body {
 /* Write all remaining styles here */
 
 header a {
-  
+  color: rgb(152,173,166);
+  text-decoration: none;
 }
 
 h1 {
